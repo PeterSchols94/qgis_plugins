@@ -13,3 +13,4 @@ git remote add origin <git_url><br />
 https://github.com/jeroenvanderzwam/qgis_plugins.git<br />
 <br />
 git push -u origin master<br />
+Hallo
